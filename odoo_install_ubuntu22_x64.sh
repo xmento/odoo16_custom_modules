@@ -302,7 +302,7 @@ bootandbootscripts() {
 
 	echo """[options]
 addons_path = /opt/$PREFIX/odoo/odoo/addons,/opt/$PREFIX/odoo/addons,/opt/$PREFIX/odoo/localaddons
-admin_passwd = SardesDoo
+admin_passwd = Daking263@@$$
 auto_reload = False
 limit_memory_hard = 8684354560
 limit_memory_soft = 8147483648
